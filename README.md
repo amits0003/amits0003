@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amits0003,
-- 👀 I’m interested in Python Automation Testing amd Development,Selenium Automation,
-- 🌱 I’m currently learning Automation architecture,
-- 💞️ I’m looking to collaborate on Python Development amd Testing,
+- 👋 Hi, I’m Amit Kumar / @amits0003,
+- 👀 I’m interested in API Development, API Automation, Selenium Automation Using Python,
+- 🌱 I’m currently learning Software System, Website and Application architecture,
+- 💞️ I’m looking to collaborate on Python API Development and Automation Testing,
 - 📫 You can always reach out to me at veddaily@gmail.com and cell @ +91-9614918082.
 
 <!---
